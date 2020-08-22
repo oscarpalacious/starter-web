@@ -13,3 +13,7 @@ Just deploy as you wish, of course.
 ## Comments
 
 Please, no comment. Unless you really have to.
+
+### Copyright
+
+Do whatever you want, etc,
