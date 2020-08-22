@@ -16,4 +16,4 @@ Please, no comment. Unless you really have to.
 
 ### Copyright
 
-Do whatever you want, etc.
+Do whatever you want, etc. Yep.
