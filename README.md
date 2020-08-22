@@ -8,8 +8,8 @@ Sample website with plenty of files for demos
 
 ## Deploy
 
-Sí, ps ai que hacerle, etc
+Just deploy as you wish, of course.
 
 ## Comments
 
-Please, no comment
+Please, no comment. Unless you really have to.
