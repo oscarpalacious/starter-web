@@ -8,7 +8,7 @@ Claro que el propósito es educarme.
 
 ## Deploy
 
-Just deploy as you wish, of course.
+Just deploy as you wish, of course. A menos que no, porque etc
 
 ## Comments
 
