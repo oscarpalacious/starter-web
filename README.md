@@ -4,7 +4,7 @@ Pa cambiarlo a español, dice.
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Claro que el propósito es educarme.
 
 ## Deploy
 
