@@ -1,6 +1,8 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
+	Bien buena onda, y todo lo demás.
+
 # TEAM
 
     YO MISMO
