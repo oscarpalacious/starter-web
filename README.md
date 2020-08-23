@@ -4,7 +4,7 @@ Pa cambiarlo a español, dice.
 
 ## Purpose
 
-Claro que el propósito es educarme.
+Claro que el propósito es educarme. OK.
 
 ## Deploy
 
